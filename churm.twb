@@ -29,7 +29,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='Churn_Modelling' name='textscan.0oht4pz1ap1kct14w5w651rw6wzh'>
-            <connection class='textscan' directory='C:/Users/nithi/Desktop/Machine Learning A-Z (Codes and Datasets)/Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/Python' filename='Churn_Modelling.csv' password='' server='' />
+            <connection class='textscan' directory='C:/Users/Abhishek/Desktop/Machine Learning A-Z (Codes and Datasets)/Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/Python' filename='Churn_Modelling.csv' password='' server='' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0oht4pz1ap1kct14w5w651rw6wzh' name='Churn_Modelling.csv' table='[Churn_Modelling#csv]' type='table'>
